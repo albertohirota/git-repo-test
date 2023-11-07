@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TestingBeto1
+=======
+Testing Eiti1
+>>>>>>> eiti2
